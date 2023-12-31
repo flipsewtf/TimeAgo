@@ -71,6 +71,3 @@ Now you're html document should look somehat like this:
 ```
 ## Credits
 Most of the script was written by me, but the initialization parts are credited to [@bychloethemes](https://bychloethemes.tumblr.com) - I do not claim ownership of the initialization at all. A big thanks to Mike on Stack Overflow for helping with incorperating that.
-
-## License
-MIT
