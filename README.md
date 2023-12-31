@@ -10,7 +10,7 @@ Before `</body>` Place the readable or minified version of the script in a `<scr
 ```html
 <script src="timeago.min.js"></script>
 ```
-You could also paste the script with your other script snippets, but the unminified version takes up a few lines of code. If you do, just make sure the initialization follows.
+You could also paste the script with your other script snippets, but the readable/unminified version takes up quite a few lines of code. If you do, just make sure the initialization follows.
 
 ### Initialization
 Place the following snippet to initialize the timeAgo functionality inside a  `<script>` tag
@@ -47,7 +47,7 @@ This plugin requires a UNIX time stamp, and for Tumblr that is `{Timestamp}`. We
 Make sure the class matches the initialization's `querySelectorAll`.
 
 ### Result
-Now you're html document should look somehat like this:
+Now you're html document should look somewhat like this:
 
 ```html
 <html>
