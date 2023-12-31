@@ -1,4 +1,9 @@
-// time ago
+/*
+TimeAgo Tumblr plugin
+-  https://mournstera.tumblr.com
+-  https://github.com/flipsewtf/TimeAgo
+-  Version 1.0.0
+*/
 (function () {
     function timeAgo(elements, options) {
         const defaults = {
