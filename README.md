@@ -70,4 +70,4 @@ Now you're html document should look somewhat like this:
 </html>
 ```
 ## Credits
-Most of the script was re-written by me, but the initialization parts are credited to [@bychloethemes](https://bychloethemes.tumblr.com) - I do not claim ownership of it whatsoever. A big thanks to Mike on Stack Overflow for helping out with getting from jquery to just JS ❤️
+Most of the script was re-written by me, with a bit of help from Mike off of Stack OVerflow. The initialization parts are completely thanks to [@bychloethemes](https://bychloethemes.tumblr.com) - I do not claim ownership any of this, whatsoever.
