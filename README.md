@@ -73,6 +73,6 @@ Now you're html document should look somewhat like this:
 </html>
 ```
 ## Credits
-Most of the script was re-written by me, with a bit of help from Mike off of Stack OVerflow. The initialization parts are completely thanks to [@bychloethemes](https://bychloethemes.tumblr.com) - I do not claim ownership any of this, whatsoever.
+Most of the script was re-written by me, with a bit of help from Mike off of Stack Overflow. The initialization parts are completely thanks to [@bychloethemes](https://bychloethemes.tumblr.com) - I do not claim ownership any of this, whatsoever.
 ## License
 MIT
