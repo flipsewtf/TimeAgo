@@ -4,6 +4,9 @@ I've absolutely loved using [@bychloethemes](https://bychloethemes.tumblr.com)'s
 > [!NOTE]
 > Basic JS/HTML knowledge isn't necessarily required but it's helpful.
 
+> [!IMPORTANT]
+> This only supports English language.
+
 ## How to use
 Before `</body>` Place the readable or minified version of the script in a `<script>` tag. Use Tumblr's theme assets to upload it.
 
@@ -71,3 +74,5 @@ Now you're html document should look somewhat like this:
 ```
 ## Credits
 Most of the script was re-written by me, with a bit of help from Mike off of Stack OVerflow. The initialization parts are completely thanks to [@bychloethemes](https://bychloethemes.tumblr.com) - I do not claim ownership any of this, whatsoever.
+## License
+MIT
