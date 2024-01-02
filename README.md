@@ -1,5 +1,5 @@
 # TimeAgo Tumblr plugin
-I've absolutely loved using [@bychloethemes](https://bychloethemes.tumblr.com)'s  [timeAgo(); plugin](https://bychloethemes.tumblr.com/plugins/timeago) but wanted to utilize their timestamp feature without the requirement of jQuery since I no longer use jQuery in my themes. This is my attempt at a pure Javascript timestamp plugin. I have, respectfully, used Chloe's options for easy usage.
+I've absolutely loved using [@bychloethemes](https://bychloethemes.tumblr.com)'s  [timeAgo(); plugin](https://bychloethemes.tumblr.com/plugins/timeago) but wanted to utilize their timestamp feature without the requirement of jQuery since I no longer use jQuery in my themes. This is my attempt at rewriting it in pure Javascript. I have, respectfully, used Chloe's options for easy usage.
 
 > [!NOTE]
 > Basic JS/HTML knowledge isn't necessarily required but it's helpful.
@@ -50,7 +50,7 @@ This plugin requires a UNIX time stamp, and for Tumblr that is `{Timestamp}`. We
 Make sure the class matches the initialization's `querySelectorAll`.
 
 ### Result
-Now you're html document should look somewhat like this:
+Now your html document should look somewhat like this:
 
 ```html
 <html>
