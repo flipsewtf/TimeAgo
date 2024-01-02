@@ -13,10 +13,10 @@ Before `</body>` Place the readable or minified version of the script in a `<scr
 ```html
 <script src="timeago.min.js"></script>
 ```
-You could also paste the script with your other script snippets, but the readable/unminified version takes up quite a few lines of code. If you do, just make sure the initialization follows.
+You could also paste the script with your other scripts if you have any, but the readable/unminified version takes up quite a few lines of code. If you do, just make sure the initialization follows.
 
 ### Initialization
-Place the following snippet to initialize the timeAgo functionality inside a  `<script>` tag
+Place the following to initialize the timeAgo functionality inside a  `<script>` tag
 
 ```Javascript
 const elements = document.querySelectorAll('.timeago');
