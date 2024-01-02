@@ -3,7 +3,7 @@ TimeAgo Tumblr plugin
 -  https://mournstera.tumblr.com
 -  https://github.com/flipsewtf/TimeAgo
 -  Version 1.0.0
-- based on https://bychloethemes.tumblr.com/plugins/timeago
+-  Based on https://bychloethemes.tumblr.com/plugins/timeago
 */
 (function () {
     function timeAgo(elements, options) {
