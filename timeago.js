@@ -1,6 +1,6 @@
 /*
 TimeAgo Tumblr plugin
--  https://mournstera.tumblr.com
+-  https://lushwave.tumblr.com
 -  https://github.com/flipsewtf/TimeAgo
 -  Version 1.0.0
 -  Based on https://bychloethemes.tumblr.com/plugins/timeago
